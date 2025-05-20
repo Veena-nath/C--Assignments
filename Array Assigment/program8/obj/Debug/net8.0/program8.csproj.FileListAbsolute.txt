@@ -1,0 +1,14 @@
+D:\DotNet\Array Assigment\program8\bin\Debug\net8.0\program8.exe
+D:\DotNet\Array Assigment\program8\bin\Debug\net8.0\program8.deps.json
+D:\DotNet\Array Assigment\program8\bin\Debug\net8.0\program8.runtimeconfig.json
+D:\DotNet\Array Assigment\program8\bin\Debug\net8.0\program8.dll
+D:\DotNet\Array Assigment\program8\bin\Debug\net8.0\program8.pdb
+D:\DotNet\Array Assigment\program8\obj\Debug\net8.0\program8.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Array Assigment\program8\obj\Debug\net8.0\program8.AssemblyInfoInputs.cache
+D:\DotNet\Array Assigment\program8\obj\Debug\net8.0\program8.AssemblyInfo.cs
+D:\DotNet\Array Assigment\program8\obj\Debug\net8.0\program8.csproj.CoreCompileInputs.cache
+D:\DotNet\Array Assigment\program8\obj\Debug\net8.0\program8.dll
+D:\DotNet\Array Assigment\program8\obj\Debug\net8.0\refint\program8.dll
+D:\DotNet\Array Assigment\program8\obj\Debug\net8.0\program8.pdb
+D:\DotNet\Array Assigment\program8\obj\Debug\net8.0\program8.genruntimeconfig.cache
+D:\DotNet\Array Assigment\program8\obj\Debug\net8.0\ref\program8.dll

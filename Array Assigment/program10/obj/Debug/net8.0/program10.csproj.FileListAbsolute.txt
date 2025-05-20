@@ -1,0 +1,14 @@
+D:\DotNet\Array Assigment\program10\bin\Debug\net8.0\program10.exe
+D:\DotNet\Array Assigment\program10\bin\Debug\net8.0\program10.deps.json
+D:\DotNet\Array Assigment\program10\bin\Debug\net8.0\program10.runtimeconfig.json
+D:\DotNet\Array Assigment\program10\bin\Debug\net8.0\program10.dll
+D:\DotNet\Array Assigment\program10\bin\Debug\net8.0\program10.pdb
+D:\DotNet\Array Assigment\program10\obj\Debug\net8.0\program10.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Array Assigment\program10\obj\Debug\net8.0\program10.AssemblyInfoInputs.cache
+D:\DotNet\Array Assigment\program10\obj\Debug\net8.0\program10.AssemblyInfo.cs
+D:\DotNet\Array Assigment\program10\obj\Debug\net8.0\program10.csproj.CoreCompileInputs.cache
+D:\DotNet\Array Assigment\program10\obj\Debug\net8.0\program10.dll
+D:\DotNet\Array Assigment\program10\obj\Debug\net8.0\refint\program10.dll
+D:\DotNet\Array Assigment\program10\obj\Debug\net8.0\program10.pdb
+D:\DotNet\Array Assigment\program10\obj\Debug\net8.0\program10.genruntimeconfig.cache
+D:\DotNet\Array Assigment\program10\obj\Debug\net8.0\ref\program10.dll

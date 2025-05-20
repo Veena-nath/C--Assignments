@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\Array Assigment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3464100B-CE52-4B6F-AA54-A4C1D1326608}|program6\\program6.csproj|d:\\dotnet\\array assigment\\program6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3464100B-CE52-4B6F-AA54-A4C1D1326608}|program6\\program6.csproj|solutionrelative:program6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2875032-0FE1-4A00-A3C0-8CADE18D8781}|program10\\program10.csproj|d:\\dotnet\\array assigment\\program10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2875032-0FE1-4A00-A3C0-8CADE18D8781}|program10\\program10.csproj|solutionrelative:program10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B280F1-C941-438F-9C1A-BC454A751484}|program9\\program9.csproj|d:\\dotnet\\array assigment\\program9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B280F1-C941-438F-9C1A-BC454A751484}|program9\\program9.csproj|solutionrelative:program9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156AC119-58A2-43F3-8D73-DAE45C2CEB3C}|program8\\program8.csproj|d:\\dotnet\\array assigment\\program8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156AC119-58A2-43F3-8D73-DAE45C2CEB3C}|program8\\program8.csproj|solutionrelative:program8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDF931F-358A-49B5-992A-61410842567B}|program7\\program7.csproj|d:\\dotnet\\array assigment\\program7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDF931F-358A-49B5-992A-61410842567B}|program7\\program7.csproj|solutionrelative:program7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489F078A-FDEF-4AB6-BEF8-84C332803E8F}|program3\\program3.csproj|d:\\dotnet\\array assigment\\program3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489F078A-FDEF-4AB6-BEF8-84C332803E8F}|program3\\program3.csproj|solutionrelative:program3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1D170C-6D90-4E23-B47D-06631C1822C7}|program5\\program5.csproj|d:\\dotnet\\array assigment\\program5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1D170C-6D90-4E23-B47D-06631C1822C7}|program5\\program5.csproj|solutionrelative:program5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FF4A5F-4AC6-4FD1-9421-857B9D5F65BB}|program4\\program4.csproj|d:\\dotnet\\array assigment\\program4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FF4A5F-4AC6-4FD1-9421-857B9D5F65BB}|program4\\program4.csproj|solutionrelative:program4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF3D743-1FFC-44C4-B498-02CBC150A68E}|program2\\program2.csproj|d:\\dotnet\\array assigment\\program2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF3D743-1FFC-44C4-B498-02CBC150A68E}|program2\\program2.csproj|solutionrelative:program2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA957CF6-16DA-481E-870F-EB8223728E0C}|program1\\program1.csproj|d:\\dotnet\\array assigment\\program1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA957CF6-16DA-481E-870F-EB8223728E0C}|program1\\program1.csproj|solutionrelative:program1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Array Assigment\\program10\\Program.cs",
+              "RelativeDocumentMoniker": "program10\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Array Assigment\\program10\\Program.cs",
+              "RelativeToolTip": "program10\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:36:01.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Array Assigment\\program9\\Program.cs",
+              "RelativeDocumentMoniker": "program9\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Array Assigment\\program9\\Program.cs",
+              "RelativeToolTip": "program9\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:30:26.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Array Assigment\\program8\\Program.cs",
+              "RelativeDocumentMoniker": "program8\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Array Assigment\\program8\\Program.cs",
+              "RelativeToolTip": "program8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:24:49.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Array Assigment\\program7\\Program.cs",
+              "RelativeDocumentMoniker": "program7\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Array Assigment\\program7\\Program.cs",
+              "RelativeToolTip": "program7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:06:01.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Array Assigment\\program6\\Program.cs",
+              "RelativeDocumentMoniker": "program6\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Array Assigment\\program6\\Program.cs",
+              "RelativeToolTip": "program6\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:21:22.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Array Assigment\\program5\\Program.cs",
+              "RelativeDocumentMoniker": "program5\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Array Assigment\\program5\\Program.cs",
+              "RelativeToolTip": "program5\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:45:01.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Array Assigment\\program4\\Program.cs",
+              "RelativeDocumentMoniker": "program4\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Array Assigment\\program4\\Program.cs",
+              "RelativeToolTip": "program4\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:43:03.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Array Assigment\\program3\\Program.cs",
+              "RelativeDocumentMoniker": "program3\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Array Assigment\\program3\\Program.cs",
+              "RelativeToolTip": "program3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:40:16.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Array Assigment\\program2\\Program.cs",
+              "RelativeDocumentMoniker": "program2\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Array Assigment\\program2\\Program.cs",
+              "RelativeToolTip": "program2\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:38:43.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Array Assigment\\program1\\Program.cs",
+              "RelativeDocumentMoniker": "program1\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Array Assigment\\program1\\Program.cs",
+              "RelativeToolTip": "program1\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvyAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:34:22.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
