@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\Exeception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60616831-A4D3-4B11-ADD4-A1EDFD1A7D73}|Exceptiontask4\\Exceptiontask4.csproj|d:\\dotnet\\exeception\\exceptiontask4\\model\\primeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60616831-A4D3-4B11-ADD4-A1EDFD1A7D73}|Exceptiontask4\\Exceptiontask4.csproj|solutionrelative:exceptiontask4\\model\\primeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60616831-A4D3-4B11-ADD4-A1EDFD1A7D73}|Exceptiontask4\\Exceptiontask4.csproj|d:\\dotnet\\exeception\\exceptiontask4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60616831-A4D3-4B11-ADD4-A1EDFD1A7D73}|Exceptiontask4\\Exceptiontask4.csproj|solutionrelative:exceptiontask4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60616831-A4D3-4B11-ADD4-A1EDFD1A7D73}|Exceptiontask4\\Exceptiontask4.csproj|d:\\dotnet\\exeception\\exceptiontask4\\model\\randomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60616831-A4D3-4B11-ADD4-A1EDFD1A7D73}|Exceptiontask4\\Exceptiontask4.csproj|solutionrelative:exceptiontask4\\model\\randomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF66BCE-5AF8-458D-95F4-65B4D8100776}|Exceptiontask3\\Exceptiontask3.csproj|d:\\dotnet\\exeception\\exceptiontask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF66BCE-5AF8-458D-95F4-65B4D8100776}|Exceptiontask3\\Exceptiontask3.csproj|solutionrelative:exceptiontask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF66BCE-5AF8-458D-95F4-65B4D8100776}|Exceptiontask3\\Exceptiontask3.csproj|d:\\dotnet\\exeception\\exceptiontask3\\model\\arrayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF66BCE-5AF8-458D-95F4-65B4D8100776}|Exceptiontask3\\Exceptiontask3.csproj|solutionrelative:exceptiontask3\\model\\arrayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF66BCE-5AF8-458D-95F4-65B4D8100776}|Exceptiontask3\\Exceptiontask3.csproj|d:\\dotnet\\exeception\\exceptiontask3\\exceptiontask3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FF66BCE-5AF8-458D-95F4-65B4D8100776}|Exceptiontask3\\Exceptiontask3.csproj|solutionrelative:exceptiontask3\\exceptiontask3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37037139-5488-49AD-8A5A-FCDDD1A4FE7C}|Execeptiontask1\\Execeptiontask1.csproj|d:\\dotnet\\exeception\\execeptiontask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37037139-5488-49AD-8A5A-FCDDD1A4FE7C}|Execeptiontask1\\Execeptiontask1.csproj|solutionrelative:execeptiontask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37037139-5488-49AD-8A5A-FCDDD1A4FE7C}|Execeptiontask1\\Exceptiontask1.csproj|d:\\dotnet\\exeception\\execeptiontask1\\model\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37037139-5488-49AD-8A5A-FCDDD1A4FE7C}|Execeptiontask1\\Exceptiontask1.csproj|solutionrelative:execeptiontask1\\model\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37037139-5488-49AD-8A5A-FCDDD1A4FE7C}|Execeptiontask1\\Exceptiontask1.csproj|d:\\dotnet\\exeception\\execeptiontask1\\model\\employeeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37037139-5488-49AD-8A5A-FCDDD1A4FE7C}|Execeptiontask1\\Exceptiontask1.csproj|solutionrelative:execeptiontask1\\model\\employeeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37037139-5488-49AD-8A5A-FCDDD1A4FE7C}|Execeptiontask1\\Exceptiontask1.csproj|d:\\dotnet\\exeception\\execeptiontask1\\exceptiontask1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37037139-5488-49AD-8A5A-FCDDD1A4FE7C}|Execeptiontask1\\Exceptiontask1.csproj|solutionrelative:execeptiontask1\\exceptiontask1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeException.cs",
+              "DocumentMoniker": "D:\\DotNet\\Exeception\\Exceptiontask4\\Model\\PrimeException.cs",
+              "RelativeDocumentMoniker": "Exceptiontask4\\Model\\PrimeException.cs",
+              "ToolTip": "D:\\DotNet\\Exeception\\Exceptiontask4\\Model\\PrimeException.cs",
+              "RelativeToolTip": "Exceptiontask4\\Model\\PrimeException.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:56:26.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RandomGenerator.cs",
+              "DocumentMoniker": "D:\\DotNet\\Exeception\\Exceptiontask4\\Model\\RandomGenerator.cs",
+              "RelativeDocumentMoniker": "Exceptiontask4\\Model\\RandomGenerator.cs",
+              "ToolTip": "D:\\DotNet\\Exeception\\Exceptiontask4\\Model\\RandomGenerator.cs",
+              "RelativeToolTip": "Exceptiontask4\\Model\\RandomGenerator.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:54:17.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Exeception\\Exceptiontask4\\Program.cs",
+              "RelativeDocumentMoniker": "Exceptiontask4\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Exeception\\Exceptiontask4\\Program.cs",
+              "RelativeToolTip": "Exceptiontask4\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:47:45.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArrayHandler.cs",
+              "DocumentMoniker": "D:\\DotNet\\Exeception\\Exceptiontask3\\Model\\ArrayHandler.cs",
+              "RelativeDocumentMoniker": "Exceptiontask3\\Model\\ArrayHandler.cs",
+              "ToolTip": "D:\\DotNet\\Exeception\\Exceptiontask3\\Model\\ArrayHandler.cs",
+              "RelativeToolTip": "Exceptiontask3\\Model\\ArrayHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:44:30.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exceptiontask3",
+              "DocumentMoniker": "D:\\DotNet\\Exeception\\Exceptiontask3\\Exceptiontask3.csproj",
+              "RelativeDocumentMoniker": "Exceptiontask3\\Exceptiontask3.csproj",
+              "ToolTip": "D:\\DotNet\\Exeception\\Exceptiontask3\\Exceptiontask3.csproj",
+              "RelativeToolTip": "Exceptiontask3\\Exceptiontask3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T07:43:40.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Exeception\\Exceptiontask3\\Program.cs",
+              "RelativeDocumentMoniker": "Exceptiontask3\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Exeception\\Exceptiontask3\\Program.cs",
+              "RelativeToolTip": "Exceptiontask3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwBgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:38:47.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvalidAgeException.cs",
+              "DocumentMoniker": "D:\\DotNet\\Exeception\\Execeptiontask1\\Model\\InvalidAgeException.cs",
+              "RelativeDocumentMoniker": "Execeptiontask1\\Model\\InvalidAgeException.cs",
+              "ToolTip": "D:\\DotNet\\Exeception\\Execeptiontask1\\Model\\InvalidAgeException.cs",
+              "RelativeToolTip": "Execeptiontask1\\Model\\InvalidAgeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:04:55.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeApp.cs",
+              "DocumentMoniker": "D:\\DotNet\\Exeception\\Execeptiontask1\\Model\\EmployeeApp.cs",
+              "RelativeDocumentMoniker": "Execeptiontask1\\Model\\EmployeeApp.cs",
+              "ToolTip": "D:\\DotNet\\Exeception\\Execeptiontask1\\Model\\EmployeeApp.cs",
+              "RelativeToolTip": "Execeptiontask1\\Model\\EmployeeApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:01:06.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Exceptiontask1.csproj",
+              "DocumentMoniker": "D:\\DotNet\\Exeception\\Execeptiontask1\\Exceptiontask1.csproj",
+              "RelativeDocumentMoniker": "Execeptiontask1\\Exceptiontask1.csproj",
+              "ToolTip": "D:\\DotNet\\Exeception\\Execeptiontask1\\Exceptiontask1.csproj",
+              "RelativeToolTip": "Execeptiontask1\\Exceptiontask1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T07:00:14.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Exeception\\Execeptiontask1\\Program.cs",
+              "RelativeDocumentMoniker": "Execeptiontask1\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Exeception\\Execeptiontask1\\Program.cs",
+              "RelativeToolTip": "Execeptiontask1\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:57:56.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

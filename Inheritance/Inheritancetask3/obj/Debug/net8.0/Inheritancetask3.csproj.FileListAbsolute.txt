@@ -1,0 +1,5 @@
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask3\obj\Debug\net8.0\Inheritancetask3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask3\obj\Debug\net8.0\Inheritancetask3.AssemblyInfoInputs.cache
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask3\obj\Debug\net8.0\Inheritancetask3.AssemblyInfo.cs
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask3\obj\Debug\net8.0\Inheritancetask3.csproj.CoreCompileInputs.cache
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask3\obj\Debug\net8.0\Inheritancetask3.sourcelink.json

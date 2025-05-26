@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C632A66-9E4E-436E-AD10-E42673467B9D}|Abtraction\\Abtraction.csproj|d:\\dotnet\\assgnmt\\abstractandinterfacetask1-solution\\abtraction\\model\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C632A66-9E4E-436E-AD10-E42673467B9D}|Abtraction\\Abtraction.csproj|solutionrelative:abtraction\\model\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C632A66-9E4E-436E-AD10-E42673467B9D}|Abtraction\\Abtraction.csproj|d:\\dotnet\\assgnmt\\abstractandinterfacetask1-solution\\abtraction\\model\\isecond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C632A66-9E4E-436E-AD10-E42673467B9D}|Abtraction\\Abtraction.csproj|solutionrelative:abtraction\\model\\isecond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C632A66-9E4E-436E-AD10-E42673467B9D}|Abtraction\\Abtraction.csproj|d:\\dotnet\\assgnmt\\abstractandinterfacetask1-solution\\abtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C632A66-9E4E-436E-AD10-E42673467B9D}|Abtraction\\Abtraction.csproj|solutionrelative:abtraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C632A66-9E4E-436E-AD10-E42673467B9D}|Abtraction\\Abtraction.csproj|d:\\dotnet\\assgnmt\\abstractandinterfacetask1-solution\\abtraction\\model\\ifirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C632A66-9E4E-436E-AD10-E42673467B9D}|Abtraction\\Abtraction.csproj|solutionrelative:abtraction\\model\\ifirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414CF31C-7B9A-4DDA-A29D-41882A37DE49}|AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj|d:\\dotnet\\assgnmt\\abstractandinterfacetask1-solution\\abstractandinterfacetask1\\abstractandinterfacetask1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{414CF31C-7B9A-4DDA-A29D-41882A37DE49}|AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj|solutionrelative:abstractandinterfacetask1\\abstractandinterfacetask1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414CF31C-7B9A-4DDA-A29D-41882A37DE49}|AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj|d:\\dotnet\\assgnmt\\abstractandinterfacetask1-solution\\abstractandinterfacetask1\\model\\imammals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414CF31C-7B9A-4DDA-A29D-41882A37DE49}|AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj|solutionrelative:abstractandinterfacetask1\\model\\imammals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414CF31C-7B9A-4DDA-A29D-41882A37DE49}|AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj|d:\\dotnet\\assgnmt\\abstractandinterfacetask1-solution\\abstractandinterfacetask1\\model\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414CF31C-7B9A-4DDA-A29D-41882A37DE49}|AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj|solutionrelative:abstractandinterfacetask1\\model\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414CF31C-7B9A-4DDA-A29D-41882A37DE49}|AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj|d:\\dotnet\\assgnmt\\abstractandinterfacetask1-solution\\abstractandinterfacetask1\\model\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414CF31C-7B9A-4DDA-A29D-41882A37DE49}|AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj|solutionrelative:abstractandinterfacetask1\\model\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414CF31C-7B9A-4DDA-A29D-41882A37DE49}|AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj|d:\\dotnet\\assgnmt\\abstractandinterfacetask1-solution\\abstractandinterfacetask1\\model\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414CF31C-7B9A-4DDA-A29D-41882A37DE49}|AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj|solutionrelative:abstractandinterfacetask1\\model\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414CF31C-7B9A-4DDA-A29D-41882A37DE49}|AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj|d:\\dotnet\\assgnmt\\abstractandinterfacetask1-solution\\abstractandinterfacetask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414CF31C-7B9A-4DDA-A29D-41882A37DE49}|AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj|solutionrelative:abstractandinterfacetask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Number.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\Abtraction\\Model\\Number.cs",
+              "RelativeDocumentMoniker": "Abtraction\\Model\\Number.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\Abtraction\\Model\\Number.cs",
+              "RelativeToolTip": "Abtraction\\Model\\Number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:44:57.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Isecond.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\Abtraction\\Model\\Isecond.cs",
+              "RelativeDocumentMoniker": "Abtraction\\Model\\Isecond.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\Abtraction\\Model\\Isecond.cs",
+              "RelativeToolTip": "Abtraction\\Model\\Isecond.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:44:33.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ifirst.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\Abtraction\\Model\\Ifirst.cs",
+              "RelativeDocumentMoniker": "Abtraction\\Model\\Ifirst.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\Abtraction\\Model\\Ifirst.cs",
+              "RelativeToolTip": "Abtraction\\Model\\Ifirst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:44:01.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\Abtraction\\Program.cs",
+              "RelativeDocumentMoniker": "Abtraction\\Program.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\Abtraction\\Program.cs",
+              "RelativeToolTip": "Abtraction\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:42:40.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Imammals.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\AbstractAndInterfacetask1\\Model\\Imammals.cs",
+              "RelativeDocumentMoniker": "AbstractAndInterfacetask1\\Model\\Imammals.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\AbstractAndInterfacetask1\\Model\\Imammals.cs",
+              "RelativeToolTip": "AbstractAndInterfacetask1\\Model\\Imammals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:53:39.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\AbstractAndInterfacetask1\\Model\\Dog.cs",
+              "RelativeDocumentMoniker": "AbstractAndInterfacetask1\\Model\\Dog.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\AbstractAndInterfacetask1\\Model\\Dog.cs",
+              "RelativeToolTip": "AbstractAndInterfacetask1\\Model\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:52:41.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\AbstractAndInterfacetask1\\Model\\Animals.cs",
+              "RelativeDocumentMoniker": "AbstractAndInterfacetask1\\Model\\Animals.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\AbstractAndInterfacetask1\\Model\\Animals.cs",
+              "RelativeToolTip": "AbstractAndInterfacetask1\\Model\\Animals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:52:07.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\AbstractAndInterfacetask1\\Model\\Cat.cs",
+              "RelativeDocumentMoniker": "AbstractAndInterfacetask1\\Model\\Cat.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\AbstractAndInterfacetask1\\Model\\Cat.cs",
+              "RelativeToolTip": "AbstractAndInterfacetask1\\Model\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:51:28.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbstractAndInterfacetask1.csproj",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj",
+              "RelativeDocumentMoniker": "AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj",
+              "RelativeToolTip": "AbstractAndInterfacetask1\\AbstractAndInterfacetask1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T03:49:18.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\AbstractAndInterfacetask1\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractAndInterfacetask1\\Program.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\AbstractAndInterfacetask1-solution\\AbstractAndInterfacetask1\\Program.cs",
+              "RelativeToolTip": "AbstractAndInterfacetask1\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:46:01.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

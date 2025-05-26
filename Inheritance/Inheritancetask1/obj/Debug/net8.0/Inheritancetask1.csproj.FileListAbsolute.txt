@@ -1,0 +1,15 @@
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\obj\Debug\net8.0\Inheritancetask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\obj\Debug\net8.0\Inheritancetask1.AssemblyInfoInputs.cache
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\obj\Debug\net8.0\Inheritancetask1.AssemblyInfo.cs
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\obj\Debug\net8.0\Inheritancetask1.csproj.CoreCompileInputs.cache
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\obj\Debug\net8.0\Inheritancetask1.sourcelink.json
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\bin\Debug\net8.0\Inheritancetask1.exe
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\bin\Debug\net8.0\Inheritancetask1.deps.json
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\bin\Debug\net8.0\Inheritancetask1.runtimeconfig.json
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\bin\Debug\net8.0\Inheritancetask1.dll
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\bin\Debug\net8.0\Inheritancetask1.pdb
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\obj\Debug\net8.0\Inheritancetask1.dll
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\obj\Debug\net8.0\refint\Inheritancetask1.dll
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\obj\Debug\net8.0\Inheritancetask1.pdb
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\obj\Debug\net8.0\Inheritancetask1.genruntimeconfig.cache
+D:\DotNet\ASSGNMT\Inheritance\Inheritancetask1\obj\Debug\net8.0\ref\Inheritancetask1.dll

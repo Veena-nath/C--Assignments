@@ -1,0 +1,15 @@
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\obj\Debug\net8.0\EncapsulationTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\obj\Debug\net8.0\EncapsulationTask2.AssemblyInfoInputs.cache
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\obj\Debug\net8.0\EncapsulationTask2.AssemblyInfo.cs
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\obj\Debug\net8.0\EncapsulationTask2.csproj.CoreCompileInputs.cache
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\obj\Debug\net8.0\EncapsulationTask2.sourcelink.json
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\bin\Debug\net8.0\EncapsulationTask2.exe
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\bin\Debug\net8.0\EncapsulationTask2.deps.json
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\bin\Debug\net8.0\EncapsulationTask2.runtimeconfig.json
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\bin\Debug\net8.0\EncapsulationTask2.dll
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\bin\Debug\net8.0\EncapsulationTask2.pdb
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\obj\Debug\net8.0\EncapsulationTask2.dll
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\obj\Debug\net8.0\refint\EncapsulationTask2.dll
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\obj\Debug\net8.0\EncapsulationTask2.pdb
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\obj\Debug\net8.0\EncapsulationTask2.genruntimeconfig.cache
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask2\obj\Debug\net8.0\ref\EncapsulationTask2.dll

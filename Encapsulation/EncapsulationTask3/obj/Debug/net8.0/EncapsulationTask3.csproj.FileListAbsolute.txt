@@ -1,0 +1,15 @@
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\obj\Debug\net8.0\EncapsulationTask3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\obj\Debug\net8.0\EncapsulationTask3.AssemblyInfoInputs.cache
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\obj\Debug\net8.0\EncapsulationTask3.AssemblyInfo.cs
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\obj\Debug\net8.0\EncapsulationTask3.csproj.CoreCompileInputs.cache
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\obj\Debug\net8.0\EncapsulationTask3.sourcelink.json
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\bin\Debug\net8.0\EncapsulationTask3.exe
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\bin\Debug\net8.0\EncapsulationTask3.deps.json
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\bin\Debug\net8.0\EncapsulationTask3.runtimeconfig.json
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\bin\Debug\net8.0\EncapsulationTask3.dll
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\bin\Debug\net8.0\EncapsulationTask3.pdb
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\obj\Debug\net8.0\EncapsulationTask3.dll
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\obj\Debug\net8.0\refint\EncapsulationTask3.dll
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\obj\Debug\net8.0\EncapsulationTask3.pdb
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\obj\Debug\net8.0\EncapsulationTask3.genruntimeconfig.cache
+D:\DotNet\ASSGNMT\Encapsulation\EncapsulationTask3\obj\Debug\net8.0\ref\EncapsulationTask3.dll

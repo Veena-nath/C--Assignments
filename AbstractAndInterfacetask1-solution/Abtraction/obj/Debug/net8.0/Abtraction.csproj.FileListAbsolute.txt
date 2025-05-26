@@ -1,0 +1,5 @@
+D:\DotNet\ASSGNMT\AbstractAndInterfacetask1-solution\Abtraction\obj\Debug\net8.0\Abtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ASSGNMT\AbstractAndInterfacetask1-solution\Abtraction\obj\Debug\net8.0\Abtraction.AssemblyInfoInputs.cache
+D:\DotNet\ASSGNMT\AbstractAndInterfacetask1-solution\Abtraction\obj\Debug\net8.0\Abtraction.AssemblyInfo.cs
+D:\DotNet\ASSGNMT\AbstractAndInterfacetask1-solution\Abtraction\obj\Debug\net8.0\Abtraction.csproj.CoreCompileInputs.cache
+D:\DotNet\ASSGNMT\AbstractAndInterfacetask1-solution\Abtraction\obj\Debug\net8.0\Abtraction.sourcelink.json

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Inheritancetask1/1.0.0": {
+        "runtime": {
+          "Inheritancetask1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inheritancetask1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

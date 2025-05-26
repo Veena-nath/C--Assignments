@@ -1,0 +1,4 @@
+D:\DotNet\Exeception\ExceptionTask2\obj\Debug\net8.0\ExceptionTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Exeception\ExceptionTask2\obj\Debug\net8.0\ExceptionTask2.AssemblyInfoInputs.cache
+D:\DotNet\Exeception\ExceptionTask2\obj\Debug\net8.0\ExceptionTask2.AssemblyInfo.cs
+D:\DotNet\Exeception\ExceptionTask2\obj\Debug\net8.0\ExceptionTask2.csproj.CoreCompileInputs.cache

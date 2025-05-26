@@ -1,0 +1,15 @@
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\obj\Debug\net8.0\Polymorphismtask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\obj\Debug\net8.0\Polymorphismtask1.AssemblyInfoInputs.cache
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\obj\Debug\net8.0\Polymorphismtask1.AssemblyInfo.cs
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\obj\Debug\net8.0\Polymorphismtask1.csproj.CoreCompileInputs.cache
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\obj\Debug\net8.0\Polymorphismtask1.sourcelink.json
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\bin\Debug\net8.0\Polymorphismtask1.exe
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\bin\Debug\net8.0\Polymorphismtask1.deps.json
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\bin\Debug\net8.0\Polymorphismtask1.runtimeconfig.json
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\bin\Debug\net8.0\Polymorphismtask1.dll
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\bin\Debug\net8.0\Polymorphismtask1.pdb
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\obj\Debug\net8.0\Polymorphismtask1.dll
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\obj\Debug\net8.0\refint\Polymorphismtask1.dll
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\obj\Debug\net8.0\Polymorphismtask1.pdb
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\obj\Debug\net8.0\Polymorphismtask1.genruntimeconfig.cache
+D:\DotNet\ASSGNMT\Polymorphismtask1\Polymorphismtask1\obj\Debug\net8.0\ref\Polymorphismtask1.dll

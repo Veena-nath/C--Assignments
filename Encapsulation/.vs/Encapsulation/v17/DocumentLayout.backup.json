@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\ASSGNMT\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B81EE7ED-B6A1-45CB-B0A4-27192015DFD7}|EncapsulationTask3\\EncapsulationTask3.csproj|d:\\dotnet\\assgnmt\\encapsulation\\encapsulationtask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81EE7ED-B6A1-45CB-B0A4-27192015DFD7}|EncapsulationTask3\\EncapsulationTask3.csproj|solutionrelative:encapsulationtask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81EE7ED-B6A1-45CB-B0A4-27192015DFD7}|EncapsulationTask3\\EncapsulationTask3.csproj|d:\\dotnet\\assgnmt\\encapsulation\\encapsulationtask3\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81EE7ED-B6A1-45CB-B0A4-27192015DFD7}|EncapsulationTask3\\EncapsulationTask3.csproj|solutionrelative:encapsulationtask3\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81EE7ED-B6A1-45CB-B0A4-27192015DFD7}|EncapsulationTask3\\EncapsulationTask3.csproj|d:\\dotnet\\assgnmt\\encapsulation\\encapsulationtask3\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81EE7ED-B6A1-45CB-B0A4-27192015DFD7}|EncapsulationTask3\\EncapsulationTask3.csproj|solutionrelative:encapsulationtask3\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81EE7ED-B6A1-45CB-B0A4-27192015DFD7}|EncapsulationTask3\\EncapsulationTask3.csproj|d:\\dotnet\\assgnmt\\encapsulation\\encapsulationtask3\\encapsulationtask3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B81EE7ED-B6A1-45CB-B0A4-27192015DFD7}|EncapsulationTask3\\EncapsulationTask3.csproj|solutionrelative:encapsulationtask3\\encapsulationtask3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E4112B-9C8A-4BBB-BB6D-46AA2432DDBE}|EncapsulationTask2\\EncapsulationTask2.csproj|d:\\dotnet\\assgnmt\\encapsulation\\encapsulationtask2\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E4112B-9C8A-4BBB-BB6D-46AA2432DDBE}|EncapsulationTask2\\EncapsulationTask2.csproj|solutionrelative:encapsulationtask2\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E4112B-9C8A-4BBB-BB6D-46AA2432DDBE}|EncapsulationTask2\\EncapsulationTask2.csproj|d:\\dotnet\\assgnmt\\encapsulation\\encapsulationtask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E4112B-9C8A-4BBB-BB6D-46AA2432DDBE}|EncapsulationTask2\\EncapsulationTask2.csproj|solutionrelative:encapsulationtask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0352D09-D592-4FDF-BEE3-B8D844707EF2}|task1\\task1.csproj|d:\\dotnet\\assgnmt\\encapsulation\\task1\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0352D09-D592-4FDF-BEE3-B8D844707EF2}|task1\\task1.csproj|solutionrelative:task1\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0352D09-D592-4FDF-BEE3-B8D844707EF2}|task1\\task1.csproj|d:\\dotnet\\assgnmt\\encapsulation\\task1\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0352D09-D592-4FDF-BEE3-B8D844707EF2}|task1\\task1.csproj|solutionrelative:task1\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0352D09-D592-4FDF-BEE3-B8D844707EF2}|task1\\task1.csproj|d:\\dotnet\\assgnmt\\encapsulation\\task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0352D09-D592-4FDF-BEE3-B8D844707EF2}|task1\\task1.csproj|solutionrelative:task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Encapsulation\\EncapsulationTask3\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "EncapsulationTask3\\Model\\Student.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Encapsulation\\EncapsulationTask3\\Model\\Student.cs",
+              "RelativeToolTip": "EncapsulationTask3\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:29:38.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Encapsulation\\EncapsulationTask3\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "EncapsulationTask3\\Model\\Course.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Encapsulation\\EncapsulationTask3\\Model\\Course.cs",
+              "RelativeToolTip": "EncapsulationTask3\\Model\\Course.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:29:03.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncapsulationTask3",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Encapsulation\\EncapsulationTask3\\EncapsulationTask3.csproj",
+              "RelativeDocumentMoniker": "EncapsulationTask3\\EncapsulationTask3.csproj",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Encapsulation\\EncapsulationTask3\\EncapsulationTask3.csproj",
+              "RelativeToolTip": "EncapsulationTask3\\EncapsulationTask3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T09:27:40.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Encapsulation\\EncapsulationTask3\\Program.cs",
+              "RelativeDocumentMoniker": "EncapsulationTask3\\Program.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Encapsulation\\EncapsulationTask3\\Program.cs",
+              "RelativeToolTip": "EncapsulationTask3\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:26:34.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Encapsulation\\EncapsulationTask2\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "EncapsulationTask2\\Model\\Order.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Encapsulation\\EncapsulationTask2\\Model\\Order.cs",
+              "RelativeToolTip": "EncapsulationTask2\\Model\\Order.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:02:02.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Encapsulation\\EncapsulationTask2\\Program.cs",
+              "RelativeDocumentMoniker": "EncapsulationTask2\\Program.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Encapsulation\\EncapsulationTask2\\Program.cs",
+              "RelativeToolTip": "EncapsulationTask2\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:37:29.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Encapsulation\\task1\\Model\\Account.cs",
+              "RelativeDocumentMoniker": "task1\\Model\\Account.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Encapsulation\\task1\\Model\\Account.cs",
+              "RelativeToolTip": "task1\\Model\\Account.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwvwAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:18:26.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "task1.csproj",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Encapsulation\\task1\\task1.csproj",
+              "RelativeDocumentMoniker": "task1\\task1.csproj",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Encapsulation\\task1\\task1.csproj",
+              "RelativeToolTip": "task1\\task1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T10:17:38.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Encapsulation\\task1\\Bank.cs",
+              "RelativeDocumentMoniker": "task1\\Bank.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Encapsulation\\task1\\Bank.cs",
+              "RelativeToolTip": "task1\\Bank.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:15:38.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

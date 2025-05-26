@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\ASSGNMT\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE006777-9E1E-4EE1-A9B4-C33354300892}|Inheritancetask3\\Inheritancetask3.csproj|d:\\dotnet\\assgnmt\\inheritance\\inheritancetask3\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE006777-9E1E-4EE1-A9B4-C33354300892}|Inheritancetask3\\Inheritancetask3.csproj|solutionrelative:inheritancetask3\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545057A3-5FAD-430D-B037-E0D2F2C072BD}|InheritanceTask2\\InheritanceTask2.csproj|d:\\dotnet\\assgnmt\\inheritance\\inheritancetask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545057A3-5FAD-430D-B037-E0D2F2C072BD}|InheritanceTask2\\InheritanceTask2.csproj|solutionrelative:inheritancetask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9115FFDE-850D-48C2-8F2F-FADB7152D3D8}|Inheritancetask1\\Inheritancetask1.csproj|d:\\dotnet\\assgnmt\\inheritance\\inheritancetask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9115FFDE-850D-48C2-8F2F-FADB7152D3D8}|Inheritancetask1\\Inheritancetask1.csproj|solutionrelative:inheritancetask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE006777-9E1E-4EE1-A9B4-C33354300892}|Inheritancetask3\\Inheritancetask3.csproj|d:\\dotnet\\assgnmt\\inheritance\\inheritancetask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE006777-9E1E-4EE1-A9B4-C33354300892}|Inheritancetask3\\Inheritancetask3.csproj|solutionrelative:inheritancetask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE006777-9E1E-4EE1-A9B4-C33354300892}|Inheritancetask3\\Inheritancetask3.csproj|d:\\dotnet\\assgnmt\\inheritance\\inheritancetask3\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE006777-9E1E-4EE1-A9B4-C33354300892}|Inheritancetask3\\Inheritancetask3.csproj|solutionrelative:inheritancetask3\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE006777-9E1E-4EE1-A9B4-C33354300892}|Inheritancetask3\\Inheritancetask3.csproj|d:\\dotnet\\assgnmt\\inheritance\\inheritancetask3\\model\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE006777-9E1E-4EE1-A9B4-C33354300892}|Inheritancetask3\\Inheritancetask3.csproj|solutionrelative:inheritancetask3\\model\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE006777-9E1E-4EE1-A9B4-C33354300892}|Inheritancetask3\\Inheritancetask3.csproj|d:\\dotnet\\assgnmt\\inheritance\\inheritancetask3\\inheritancetask3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE006777-9E1E-4EE1-A9B4-C33354300892}|Inheritancetask3\\Inheritancetask3.csproj|solutionrelative:inheritancetask3\\inheritancetask3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545057A3-5FAD-430D-B037-E0D2F2C072BD}|InheritanceTask2\\InheritanceTask2.csproj|d:\\dotnet\\assgnmt\\inheritance\\inheritancetask2\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545057A3-5FAD-430D-B037-E0D2F2C072BD}|InheritanceTask2\\InheritanceTask2.csproj|solutionrelative:inheritancetask2\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545057A3-5FAD-430D-B037-E0D2F2C072BD}|InheritanceTask2\\InheritanceTask2.csproj|d:\\dotnet\\assgnmt\\inheritance\\inheritancetask2\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545057A3-5FAD-430D-B037-E0D2F2C072BD}|InheritanceTask2\\InheritanceTask2.csproj|solutionrelative:inheritancetask2\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545057A3-5FAD-430D-B037-E0D2F2C072BD}|InheritanceTask2\\InheritanceTask2.csproj|d:\\dotnet\\assgnmt\\inheritance\\inheritancetask2\\inheritancetask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{545057A3-5FAD-430D-B037-E0D2F2C072BD}|InheritanceTask2\\InheritanceTask2.csproj|solutionrelative:inheritancetask2\\inheritancetask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9115FFDE-850D-48C2-8F2F-FADB7152D3D8}|Inheritancetask1\\Inheritancetask1.csproj|d:\\dotnet\\assgnmt\\inheritance\\inheritancetask1\\model\\executive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9115FFDE-850D-48C2-8F2F-FADB7152D3D8}|Inheritancetask1\\Inheritancetask1.csproj|solutionrelative:inheritancetask1\\model\\executive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9115FFDE-850D-48C2-8F2F-FADB7152D3D8}|Inheritancetask1\\Inheritancetask1.csproj|d:\\dotnet\\assgnmt\\inheritance\\inheritancetask1\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9115FFDE-850D-48C2-8F2F-FADB7152D3D8}|Inheritancetask1\\Inheritancetask1.csproj|solutionrelative:inheritancetask1\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask3\\Model\\Professor.cs",
+              "RelativeDocumentMoniker": "Inheritancetask3\\Model\\Professor.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask3\\Model\\Professor.cs",
+              "RelativeToolTip": "Inheritancetask3\\Model\\Professor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:53:51.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask3\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Inheritancetask3\\Model\\Student.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask3\\Model\\Student.cs",
+              "RelativeToolTip": "Inheritancetask3\\Model\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:53:28.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask3\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "Inheritancetask3\\Model\\Course.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask3\\Model\\Course.cs",
+              "RelativeToolTip": "Inheritancetask3\\Model\\Course.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:53:05.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inheritancetask3",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask3\\Inheritancetask3.csproj",
+              "RelativeDocumentMoniker": "Inheritancetask3\\Inheritancetask3.csproj",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask3\\Inheritancetask3.csproj",
+              "RelativeToolTip": "Inheritancetask3\\Inheritancetask3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T08:51:52.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask3\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritancetask3\\Program.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask3\\Program.cs",
+              "RelativeToolTip": "Inheritancetask3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T04:58:19.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Inheritance\\InheritanceTask2\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "InheritanceTask2\\Model\\Student.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Inheritance\\InheritanceTask2\\Model\\Student.cs",
+              "RelativeToolTip": "InheritanceTask2\\Model\\Student.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T04:53:15.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Inheritance\\InheritanceTask2\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceTask2\\Program.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Inheritance\\InheritanceTask2\\Program.cs",
+              "RelativeToolTip": "InheritanceTask2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T04:50:10.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask1\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritancetask1\\Program.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask1\\Program.cs",
+              "RelativeToolTip": "Inheritancetask1\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:03:49.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Inheritance\\InheritanceTask2\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "InheritanceTask2\\Model\\Person.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Inheritance\\InheritanceTask2\\Model\\Person.cs",
+              "RelativeToolTip": "InheritanceTask2\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T04:54:55.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InheritanceTask2.csproj",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Inheritance\\InheritanceTask2\\InheritanceTask2.csproj",
+              "RelativeDocumentMoniker": "InheritanceTask2\\InheritanceTask2.csproj",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Inheritance\\InheritanceTask2\\InheritanceTask2.csproj",
+              "RelativeToolTip": "InheritanceTask2\\InheritanceTask2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T04:52:08.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Executive.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask1\\Model\\Executive.cs",
+              "RelativeDocumentMoniker": "Inheritancetask1\\Model\\Executive.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask1\\Model\\Executive.cs",
+              "RelativeToolTip": "Inheritancetask1\\Model\\Executive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:53:42.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask1\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Inheritancetask1\\Model\\Employee.cs",
+              "ToolTip": "D:\\DotNet\\ASSGNMT\\Inheritance\\Inheritancetask1\\Model\\Employee.cs",
+              "RelativeToolTip": "Inheritancetask1\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:14:39.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
